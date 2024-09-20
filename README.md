@@ -7,6 +7,11 @@ Secured MERN Template, Client and Backend
 ### Built With
 
 - [React](https://reactjs.org)
+- [Redux](https://redux.js.org)
+- [Node.js](https://nodejs.org)
+- [Express](https://www.expressjs.com/)
+- [MongoDB](https://www.mongodb.com)
+- [Mongoose](https://mongoosejs.com)
 
 <!-- GETTING STARTED -->
 
